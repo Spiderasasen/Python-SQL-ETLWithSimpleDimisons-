@@ -1,4 +1,0 @@
-[csc]
-dbhost = grid8.cs.elon.edu
-dbuser = ddiaz11
-dbpw = Diegodiaz09?
